@@ -1,28 +1,28 @@
 /*this is my first stylesheet project made by me for fun and performance!*/
 
-.body    {
+body    {
     background-color: lightskyblue;
     text-align: center;
     padding: auto;
     font-family: Arial, Helvetica, sans-serif;
 }
-.h1  {
+h1  {
     color: dodgerblue;
     font-size: 28px;
 }
-.h1:hover    {
+h1:hover    {
     text-decoration: underline;
     color:aliceblue;
 }
-.h2  {
+h2  {
     color: dodgerblue;
     font-size: 12px;
 }
-.h2:hover    {
+h2:hover    {
     text-decoration: underline;
     color:aliceblue;
 }
-.p   {
+p   {
     text-align: justify;
     letter-spacing: 3px;
     text-indent: 21px;
